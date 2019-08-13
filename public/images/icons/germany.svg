@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>6DCF321F-13FE-4F9A-9754-41613BCB79AB</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <circle id="path-1" cx="9" cy="9" r="9"></circle>
+    </defs>
+    <g id="bsbv" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Main-Desktop-lang-menu-" transform="translate(-780.000000, -56.000000)">
+            <g id="lang" transform="translate(767.000000, 46.000000)">
+                <g id="germany" transform="translate(13.000000, 10.000000)">
+                    <g id="Shape-+-Shape-+-Shape-Mask">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#D8D8D8" xlink:href="#path-1"></use>
+                        <path d="M0,13.1390054 C1.4176128,16.9327276 5.09519143,19.6363636 9.40909091,19.6363636 C13.7229904,19.6363636 17.400569,16.9327276 18.8181818,13.1390054 L9.40909091,12.2727273 L0,13.1390054 Z" id="Shape" fill="#FFDA44" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                        <path d="M9.40909091,0 C5.09519143,0 1.4176128,2.70359717 0,6.49735825 L9.40909091,7.36363636 L18.8181818,6.49731934 C17.400569,2.70359717 13.7229904,0 9.40909091,0 Z" id="Shape" fill="#000000" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                        <path d="M-0.20749858,6.54545455 C-0.602143466,7.56476595 -0.818181818,8.6672527 -0.818181818,9.81818182 C-0.818181818,10.9691109 -0.602143466,12.0715977 -0.20749858,13.0909091 L18.2075369,13.0909091 C18.6021818,12.0715977 18.8181818,10.9691109 18.8181818,9.81818182 C18.8181818,8.6672527 18.6021818,7.56476595 18.2074986,6.54545455 L-0.20749858,6.54545455 Z" id="Shape" fill="#D80027" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
